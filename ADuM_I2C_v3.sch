@@ -1676,7 +1676,7 @@ AR Path="/62F3D8A0/61EB6627" Ref="J?"  Part="1"
 AR Path="/61D07832/61EB6627" Ref="J?"  Part="1" 
 F 0 "J2" H 5125 4550 50  0000 C CNN
 F 1 "B" H 5125 4950 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Horizontal" H 5075 4750 50  0001 C CNN
+F 2 "Modules:PinHeader_2x03_P1.27mm_Horizontal_short" H 5075 4750 50  0001 C CNN
 F 3 "~" H 5075 4750 50  0001 C CNN
 	1    5075 4750
 	1    0    0    -1  
@@ -2240,7 +2240,7 @@ AR Path="/62F3D8A0/61C0028A" Ref="J?"  Part="1"
 AR Path="/61D07832/61C0028A" Ref="J?"  Part="1" 
 F 0 "J1" H 2875 4950 50  0000 C CNN
 F 1 "A" H 2875 4550 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_2x03_P1.27mm_Horizontal" H 2825 4750 50  0001 C CNN
+F 2 "Modules:PinHeader_2x03_P1.27mm_Horizontal_short" H 2825 4750 50  0001 C CNN
 F 3 "~" H 2825 4750 50  0001 C CNN
 	1    2825 4750
 	1    0    0    1   
