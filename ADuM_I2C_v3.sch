@@ -2245,4 +2245,26 @@ F 3 "~" H 2825 4750 50  0001 C CNN
 	1    2825 4750
 	1    0    0    1   
 $EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 61FB05C8
+P 2575 5325
+F 0 "H1" H 2675 5371 50  0000 L CNN
+F 1 "MountingHole_D1.524mm" H 2675 5280 50  0000 L CNN
+F 2 "Modules:MountingHole_D1.524mm" H 2575 5325 50  0001 C CNN
+F 3 "~" H 2575 5325 50  0001 C CNN
+	1    2575 5325
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61FB1324
+P 2575 5575
+F 0 "H2" H 2675 5621 50  0000 L CNN
+F 1 "MountingHole_D1.524mm" H 2675 5530 50  0000 L CNN
+F 2 "Modules:MountingHole_D1.524mm" H 2575 5575 50  0001 C CNN
+F 3 "~" H 2575 5575 50  0001 C CNN
+	1    2575 5575
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
